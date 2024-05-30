@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Ecomm-78/static/css/main.013731b5.css",
+    "main.js": "/Ecomm-78/static/js/main.aec2f496.js",
+    "static/js/453.2d40735f.chunk.js": "/Ecomm-78/static/js/453.2d40735f.chunk.js",
+    "static/media/2.jpg": "/Ecomm-78/static/media/2.985c0edc25dec4cdc2f4.jpg",
+    "static/media/3.jpg": "/Ecomm-78/static/media/3.e1521a9e24fa0c51823a.jpg",
+    "static/media/5.jpg": "/Ecomm-78/static/media/5.cda90b20ce8b78c6839d.jpg",
+    "static/media/13.jpg": "/Ecomm-78/static/media/13.0e732bd6f85773759088.jpg",
+    "static/media/7.jpg": "/Ecomm-78/static/media/7.df011e0e087ac41b6cba.jpg",
+    "static/media/8.jpg": "/Ecomm-78/static/media/8.69948b3f0959ad85ad32.jpg",
+    "static/media/12.jpg": "/Ecomm-78/static/media/12.04a21605f7eaef8252bb.jpg",
+    "static/media/9.jpg": "/Ecomm-78/static/media/9.4ace4d92252370c4df19.jpg",
+    "static/media/10.jpg": "/Ecomm-78/static/media/10.2e537b664bbcd94f2458.jpg",
+    "static/media/14.jpg": "/Ecomm-78/static/media/14.59cd94341f44e0bdbcf2.jpg",
+    "static/media/6.jpg": "/Ecomm-78/static/media/6.a4e3c9fbd06a59b35bf7.jpg",
+    "static/media/11.jpg": "/Ecomm-78/static/media/11.087330b5c95620714e89.jpg",
+    "static/media/1.jpg": "/Ecomm-78/static/media/1.9d1a5fb21a7f5fb46a46.jpg",
+    "static/media/4.jpg": "/Ecomm-78/static/media/4.d8ea4f1faaeda52c62c6.jpg",
+    "static/media/15.jpg": "/Ecomm-78/static/media/15.058ae0e25d4397c64119.jpg",
+    "index.html": "/Ecomm-78/index.html",
+    "main.013731b5.css.map": "/Ecomm-78/static/css/main.013731b5.css.map",
+    "main.aec2f496.js.map": "/Ecomm-78/static/js/main.aec2f496.js.map",
+    "453.2d40735f.chunk.js.map": "/Ecomm-78/static/js/453.2d40735f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.013731b5.css",
+    "static/js/main.aec2f496.js"
+  ]
+}
