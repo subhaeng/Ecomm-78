@@ -1,3 +1,9 @@
+SHOP UI DESIGN
+<img width="1900" height="781" alt="Screenshot 2025-09-26 085834" src="https://github.com/user-attachments/assets/4a10595a-2741-434b-bf59-ac21c8d0fba7" />
+<img width="1884" height="859" alt="Screenshot 2025-09-26 085849" src="https://github.com/user-attachments/assets/adf84ec6-d7c9-4833-9a8d-09cf081830a1" />
+<img width="1914" height="656" alt="Screenshot 2025-09-26 085906" src="https://github.com/user-attachments/assets/fdf00a95-4014-427d-a096-5be994fa04d7" />
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
